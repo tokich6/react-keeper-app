@@ -8,7 +8,7 @@ The app lets you add and delete notes.
 
 ## Installation and running
 
-1. git clone https://github.com/tokich6/react-keeper-app.git
+1. get the source code
 
 ```
 git clone https://github.com/tokich6/vacation_app.git
