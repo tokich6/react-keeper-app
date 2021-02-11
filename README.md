@@ -20,7 +20,7 @@ git clone https://github.com/tokich6/vacation_app.git
 npm install
 ```
 
-3. to run the application on localhost
+3. run application
 ```
 npm start
 ```
