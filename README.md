@@ -4,7 +4,7 @@ react web app - development only
 
 ## Project Description 
 
-The app lets add and delete notes.
+The app lets you add and delete notes.
 
 ## Installation and running
 
